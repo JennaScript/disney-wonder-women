@@ -2,7 +2,7 @@ Disney's Wonder Women
 Created by Jennalyn Kabiling 
 Built with HTML, CSS, JavaScript
 
-This is an original site built for my Junior Intensives; fall 2020.
+This project is an original site built for my Junior Intensives; fall 2020.
 
 This site will focus on some of Disney's most timeless female characters. The content on this web page will delve into some of Disney’s most renowned female characters and will aim to include each character's traits, what they stand for, and how they can be seen as role models to all girls/women everywhere.
 
