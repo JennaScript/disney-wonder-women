@@ -1,6 +1,6 @@
 Disney's Wonder Women 
 Created by Jennalyn Kabiling 
-Built with HTML, CSS, JavaScript
+Built with HTML, CSS
 
 This project is an original site built for my Junior Intensives; fall 2020.
 
