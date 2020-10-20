@@ -51,6 +51,10 @@ nav ul a:hover {
     color: pink;
 }
 
+nav h1, a:hover {
+    color: pink;
+}
+
 #home {
     justify-content: space-around;
     align-items: center;
